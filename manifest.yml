@@ -2,7 +2,6 @@ applications:
 - path: .
   memory: 128M
   instances: 1
-  domain: mybluemix.net
-  name: ultimate-chatbot
-  host: ultimate-chatbot
+  routes: 
+    - route: ultimate-chatbot-${random-word}.mybluemix.net
   disk_quota: 256M
