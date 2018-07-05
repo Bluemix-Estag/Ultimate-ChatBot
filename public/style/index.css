@@ -14,14 +14,12 @@ body {
     position: absolute;
     top: 0;
     right: 0;
+    z-index: 99999999;
 }
 
 .settings-icon {
-    visibility: hidden;
-}
-
-.config:hover .settings-icon {
     visibility: visible;
+    
 }
 
 .close-icon {

@@ -4,10 +4,10 @@
             "label": "conversation",
             "name": "Conversation",
             "credentials": {
-                "url": "https://gateway.watsonplatform.net/conversation/api",
-                "username": "49143f64-e471-48de-bea8-d165c2e34391",
-                "password": "QTUJz4HlDXO3",
-                "workspace_id": "59400d3b-82e8-41ea-913f-832dac21bc5c"
+                "url": "https://gateway.watsonplatform.net/assistant/api",
+                "username": "a292a571-5bc0-44c1-9305-4a839edae726",
+                "password": "nscfVfKPk8wB",
+                "workspace_id": "09c837b8-6795-4057-831b-a2f38184bb0d"
             }
         }]
     }
